@@ -61,5 +61,6 @@ Duplicate additions are prevented. The cap applies to five unfinished lifts, so 
 
 ## Submission links
 
-- Live link: available in the project delivery message after publishing.
-- GitHub repository: connect/push this source to your own GitHub repository before submission. The source includes meaningful Git commits; the Sites source remote is separate from GitHub.
+## Submission links
+- Live link: https://fit-log-m8i9.vercel.app (deploy শেষে যে URL পাবেন সেটা)
+- GitHub repository: https://github.com/iamminhaz31/FitLog
